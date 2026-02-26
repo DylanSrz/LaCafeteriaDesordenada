@@ -1,0 +1,45 @@
+Menú Cafetería - Genérico
+
+Café y Bebidas Calientes
+C01 | Café americano        | Taza de café filtrado               | $25
+C02 | Espresso              | Doble shot de espresso              | $30
+C03 | Cappuccino            | Espresso, leche vaporizada, espuma  | $38
+C04 | Latte                 | Espresso con más leche              | $40
+C05 | Té caliente           | Variedad: negro, verde, herbal      | $20
+
+Bebidas Frías
+B01 | Iced Coffee           | Café frío con hielo                 | $35
+B02 | Té helado             | Té frío con limón o durazno         | $28
+B03 | Smoothie de frutas    | Fresa/plátano/mango                 | $50
+B04 | Agua mineral          | Botella 500 ml                      | $15
+
+Desayunos
+D01 | Tostadas francesas    | 2 piezas con miel o mermelada       | $55
+D02 | Huevos a la mexicana  | 2 huevos, frijoles, tortillas       | $60
+D03 | Avena caliente        | Con fruta y miel                    | $35
+D04 | Chilaquiles (pequeño)| Con salsa verde o roja              | $65
+
+Sándwiches y Bocadillos
+S01 | Sándwich de pavo      | Pavo, lechuga, jitomate, aderezo    | $65
+S02 | Club de pollo         | Pollo, tocino, queso, pan integral  | $75
+S03 | Bagel con queso crema | Clásico                             | $40
+S04 | Croissant jamón/queso | Horneado, relleno                   | $45
+
+Ensaladas
+E01 | Ensalada César        | Lechuga, pollo opcional, aderezo    | $70
+E02 | Ensalada de quinoa    | Quinoa, vegetales, vinagreta        | $68
+
+Postres
+P01 | Brownie               | Con nuez, porción                    | $30
+P02 | Cheesecake            | Porción individual                   | $45
+P03 | Fruta fresca          | Mix de temporada                     | $28
+
+Extras y Complementos
+X01 | Pan extra             | Rebanada/tostada                     | $8
+X02 | Jarabe/Leche vegetal  | Almendra/soya/avena                  | $10
+X03 | Porción de fruta      | Porción pequeña                       | $20
+
+Combos (Ejemplos)
+B-C1 | Desayuno rápido      | Café americano + croissant           | $55
+B-C2 | Almuerzo ligero      | Sándwich de pavo + agua              | $85
+
