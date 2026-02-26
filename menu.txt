@@ -1,4 +1,4 @@
-Menú Cafetería - Genérico
+JuanValdez de Temu - Genérico
 
 Café y Bebidas Calientes
 C01 | Café americano        | Taza de café filtrado               | $25
